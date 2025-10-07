@@ -10,7 +10,5 @@ def flatten(mat:list[list | tuple])-> list:
         if not isinstance(row, (list, tuple)):
             raise TypeError("строка не является ни списком, ни кортежем")
         result.extend(row)
-        return result 
-print(min_max([3, -1, 5, 5, 0]))
-print(unique_sorted([3, 1, 2, 1, 3]))
-print(flatten([[1, 2], [3, 4]]))
+    return result 
+print(min_max([]))
