@@ -1,10 +1,10 @@
-# python-bs
+# python-labs
 
 ## Лабораторная работa 2
 
 ### Задание 1.1
 
-<lab 2/image/foto_1.1.png/>
+<img width="1434" height="1280" alt="foto_1 1" src="https://github.com/user-attachments/assets/e550a874-8dd4-4329-a58c-e9000669540f" />
 
 ```
 def format_record(rec: tuple[str, str, float]) -> str:
@@ -33,11 +33,13 @@ print(format_record(("сидорова анна сергеевна", "ABB-01", 3
 
 ```
 
-<![alt text](foto_1.1_resultado.png) />
+<img width="1227" height="376" alt="foto_1 1_resultado" src="https://github.com/user-attachments/assets/0a764ac3-4114-42da-bd96-6dda77053cb0" />
+
 
 ### Задание1.2
 
-<
+<img width="1434" height="824" alt="foto_1 2" src="https://github.com/user-attachments/assets/f7ba6531-f2ab-47a5-85d7-2f8556de70eb" />
+
 
 ```
 def min_max(nums: list [float | int])-> tuple [float | int, float | int]:
@@ -57,11 +59,12 @@ print(min_max([]))
 
 ```
 
-< ![alt text](foto_1.2_resultado.png)/>
+<img width="906" height="165" alt="foto_1 2_resultado" src="https://github.com/user-attachments/assets/cc62fde5-06cb-4c56-9f79-0531e9b28f21" />
 
 ### Задание 2b.1
 
-<![alt text](foto_2B.1.png) />
+<img width="1650" height="1508" alt="foto_2B 1" src="https://github.com/user-attachments/assets/6068d8e8-6a81-44a5-b00e-3713c1784175" />
+
 
 ```
 from typing import List, Union
@@ -98,11 +101,12 @@ print(col_sums([[-1, 1], [10, -10]]))
 print(col_sums([[0, 0], [0, 0]]))
 
 ```
+<img width="1142" height="167" alt="foto_2B 1_resultado" src="https://github.com/user-attachments/assets/2269842e-e4fe-4492-b082-866365066d87" />
 
-<![alt text](foto_2B.1_resultado.png) />
+
 ### Задание 2b.2
 
-<![alt text](foto_2B.2.png) />
+<img width="1650" height="1166" alt="foto_2B 2" src="https://github.com/user-attachments/assets/e22654e7-7544-4e19-95ac-2659bdaf598e" />
 
 
 ```
@@ -132,11 +136,12 @@ print(transpose([[1, 2], [3]]))
 
 ```
 
-<![alt text](foto_2B.1_resultado.png) />
+<img width="1118" height="160" alt="foto_2B 2_resultado" src="https://github.com/user-attachments/assets/ae9ca82e-f8ae-48d5-8ae9-2cbdc9b98bc0" />
+
 
 ### Задание 2b.3
 
-<![alt text](foto_2B.3.png) />
+<img width="1650" height="1166" alt="foto_2B 3" src="https://github.com/user-attachments/assets/75d5a4e3-32a2-46cd-a5d9-70eab5e7d381" />
 
 
 ```
@@ -166,10 +171,12 @@ print(row_sums([[1, 2], [3]]))
 
 ```
 
-<![alt text](foto_2B.3_resultado.png) />
+<img width="1120" height="171" alt="foto_2B 3_resultado" src="https://github.com/user-attachments/assets/bdce2fc7-8803-4239-ba8d-a188aa4e6f89" />
+
+
 ### Задание 2b.4
 
-<![alt text](foto_2B.4.png) />
+<img width="1650" height="1166" alt="foto_2B 4" src="https://github.com/user-attachments/assets/0bf9bc42-18d5-4915-b02d-018124f23cdf" />
 
 
 ```
@@ -198,11 +205,12 @@ def col_sums(mat: List[List[Number]]) -> List[float]:
 print(col_sums([[1, 2], [3]]))
 
 ```
+<img width="1220" height="212" alt="foto_2B 4_resultado" src="https://github.com/user-attachments/assets/23de1af4-ee12-4e8d-8af2-8a20f9100e52" />
 
-<![alt text](foto_2B.4_resultado.png) />
+ 
 ### Задание c
 
-<![alt text](foto_c.png) />
+<img width="1326" height="1166" alt="foto_c" src="https://github.com/user-attachments/assets/c6918b07-89d6-4a55-88d9-e0ebf6039f39" />
 
 
 ```
@@ -230,6 +238,7 @@ print(format_record(("Петров Пётр", "IKBO-12", 5.0)))
 print(format_record(("Петров Пётр Петрович", "IKBO-12", 5.0)))
 print(format_record(("сидорова анна сергеевна", "ABB-01", 3.999)))
 ```
+<img width="1376" height="118" alt="foto_c_resultado" src="https://github.com/user-attachments/assets/3715fe59-1db5-4fa0-a456-ef2e4a078720" />
 
-<![alt text](foto_c_resultado.png) />
+
 
